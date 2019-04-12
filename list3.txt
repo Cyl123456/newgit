@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 laskjdaskljdalksjdlaskj  最爱小娟  小娟喜欢他对象 welcome to tianjin
+=======
+laskjdaskljdalksjdlaskj  welcome to beijing
+>>>>>>> dev
